@@ -1,9 +1,12 @@
 import Container from './container'
-import { EXAMPLE_PATH } from '../lib/constants'
+
 
 const Footer = () => {
 return (
-    <footer>
+  <footer className="bg-stone-900">
+      <Container>
+
+      </Container>
     </footer>
   )
 }
