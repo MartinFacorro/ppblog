@@ -18,6 +18,9 @@ Once you have npm installed you can run the following both to install and upgrad
 
 REFERENCE: [Yarn Official Documentation](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 
+## Install Package with yarn
+
+``` yarn install ```
 
 ## Start the Project
 
@@ -30,6 +33,9 @@ To fix it you have to run the command below to run Set-ExecutionPolicy and chang
 
 
 ``` Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass ```
+
+## Next Version
+next@14.1.3: The engine "node" is compatible with node ">=18.17.0". Got "12.22.12"
 
 
 # Versiones
