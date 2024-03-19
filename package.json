@@ -26,7 +26,7 @@
     "tailwindcss": "^3.1.4"
   },
   "name": "ppblog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/MartinFacorro/ppblog.git",
   "author": "Martin Facorro <mfacorro@live.com.ar>",
