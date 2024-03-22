@@ -6,6 +6,10 @@
     "start": "next start",
     "typecheck": "tsc"
   },
+  "engines": { 
+    "npm": ">=9.6.7",
+    "node": ">=18.17.0"
+  },
   "dependencies": {
     "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
@@ -15,6 +19,7 @@
     "react-dom": "^18.2.0",
     "remark": "^14.0.2",
     "remark-html": "^15.0.1",
+    "sharp": "^0.33.2",
     "typescript": "^4.7.4"
   },
   "devDependencies": {
@@ -26,7 +31,7 @@
     "tailwindcss": "^3.1.4"
   },
   "name": "ppblog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/MartinFacorro/ppblog.git",
   "author": "Martin Facorro <mfacorro@live.com.ar>",
