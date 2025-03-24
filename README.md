@@ -18,6 +18,10 @@ Once you have npm installed you can run the following both to install and upgrad
 
 REFERENCE: [Yarn Official Documentation](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 
+## Instalar next: Si no tienes next instalado en tu proyecto, necesitas agregarlo como una dependencia. Ejecuta el siguiente comando dentro de tu proyecto:
+
+```yarn add next react react-dom```
+
 
 ## Start the Project
 
@@ -38,3 +42,17 @@ To fix it you have to run the command below to run Set-ExecutionPolicy and chang
 
 * Post Que es un Framework en Programacion.
 * New FavIcon image
+
+# Version
+
+## 1.2.0
+
+Actualización Yarn
+> npm install --global  yarn
+
+added 1 package in 1s
+npm notice
+npm notice New major version of npm available! 10.9.2 -> 11.2.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.2.0
+npm notice To update run: npm install -g npm@11.2.0
+npm notice
