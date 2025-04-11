@@ -56,3 +56,13 @@ npm notice New major version of npm available! 10.9.2 -> 11.2.0
 npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.2.0
 npm notice To update run: npm install -g npm@11.2.0
 npm notice
+
+### Regularmente actualizar
+
+#### Browserslist: caniuse-lite is outdated. Please run:
+    npx update-browserslist-db@latest
+    Why you should do it regularly: https://github.com/browserslist/update-db#readme
+
+#### NPM npm notice New minor version of npm available! 11.2.0 -> 11.3.0
+    npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.3.0
+    npm notice To update run: npm install -g npm@11.3.0
